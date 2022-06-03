@@ -11,6 +11,7 @@
 - VSCode
 - Fastify 
 - Node.js
+- VSCode terminal and command line interface (CLI)
 
 ### Takeaways
 - Practiced writing and executing web server Node.js JavaScript code using array indexOf() and Array.reduce() methods
